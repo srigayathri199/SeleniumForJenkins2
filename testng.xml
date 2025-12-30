@@ -4,6 +4,7 @@
     <test name="Regression Test">
         <classes>
             <class name="Sample.LoginPageTest"/>
+            
         </classes>
     </test>
 </suite>
